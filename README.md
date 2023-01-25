@@ -4,6 +4,6 @@
 
 #date of starting : 23 jan 2023
 
-#date of completion : 
+#date of completion : 25 jan 2023
 
 #Place : NIT Patna
